@@ -236,3 +236,8 @@ outputs/
 # Logs
 *.log
 logs/
+
+# MetaTrader (if used later)
+*.ex4
+*.ex5
+*.set
