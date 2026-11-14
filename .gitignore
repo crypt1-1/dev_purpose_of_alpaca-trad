@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets / API keys
+.env
+.env.local
+.env.production
+token.json
+client_secret.json
+credentials.json
+
+# Data / outputs
+data/
+outputs/
+*.csv
+*.parquet
+
+# Logs
+*.log
+logs/
